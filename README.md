@@ -22,8 +22,12 @@ However, using only 2 out of the 5 variables is not enough grounds for affirming
 ## Summary Statistics on Suspension Coils
 The output in the console after statistical analysis indicates that the design specifications for the MechaCar suspension coils was met in total when all manufacturing lots was considered. 
 However it also shows that individually, only 2 lots conform to the specifications, Lot3 had a variance of 170 which exceeded 100 PSI or less stated in the specification.
-![](https://github.com/emmanuelbrim/MechaCar_Statistical_Analysis/blob/main/Resources/lot_summary.PNG)
+
+
 ![](https://github.com/emmanuelbrim/MechaCar_Statistical_Analysis/blob/main/Resources/total_summary.PNG)
+
+![](https://github.com/emmanuelbrim/MechaCar_Statistical_Analysis/blob/main/Resources/lot_summary.PNG)
+
 
 ## T-Tests on Suspension Coils
 One sample T-Test was performed on PSI of suspension coils from all lots and each invidual lot to determine if there was a statistical difference in the their mean and the mean of the PSI of  population(1500).
