@@ -10,7 +10,7 @@ The statistical information from this results helped answer the questions that f
 From the summary results, vehicle_length and ground_clearance provide a non random amount of variance to the mpg values in MechaCar_data.
 With p-values of 2.60e-12 and 5.21e-8 respectively, these two variables indicates strong positive relationship with mpg.
 
--Is the slope of the linear model considered to be zero? Why or why not?
+- Is the slope of the linear model considered to be zero? Why or why not?
 The slope of the linear model cannot be considered to be zero.
 All other variables had coefficients of value zero or less except vehicle_length and ground_clearance with 6.27 and 3.55 respectively. 
 This shows that the line was not flat to have a slope eqaul to zero. 
