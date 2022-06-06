@@ -44,6 +44,7 @@ With a significance level of 0.05, the generated p-value from the results which 
 The next t-test looked at the difference in the mean PSI of each lot to that of the population mean of 1500 PSI.
 The results showed a p-value of 1 for Lot1, 0.06 for Lot2 and 0.04 for Lot3.
 It therefore indicates that with a significance level of 0.05, we will fail to reject the null hypothesis in all lots except Lot3 which showed a difference in mean value to that of the population.
+
 Below is the console results of all the t-test from each Lot. 
 
 ![](https://github.com/emmanuelbrim/MechaCar_Statistical_Analysis/blob/main/Resources/lot1.PNG)
